@@ -10,6 +10,7 @@ See:
 
 
 ## Example Usage
+```javascript
     // Require the library
     var Reittiopas = require('reittiopas-js');
 
@@ -29,15 +30,15 @@ See:
         .catch(function(err) {
             console.log("Darn it: " + err);
         });
-
+```
 
 ### Examples
 Further examples can be found in examples/
 
 To run the examples:
-
+```bash
     $ USER=some_user PASS=some_pass node examples/simple.js
-
+```
 
 ## Status
 Still a work in progress. Main things which still need to be done:
