@@ -5,8 +5,8 @@ A thin wrapper around the HSL Reittiopas API.
 
 See:
 
-- (http://developer.reittiopas.fi/pages/en/http-get-interface.php)[http://developer.reittiopas.fi/pages/en/http-get-interface.php]
-- (http://developer.reittiopas.fi/pages/en/http-get-interface/1.2.0.php)[http://developer.reittiopas.fi/pages/en/http-get-interface/1.2.0.php]
+- [http://developer.reittiopas.fi/pages/en/http-get-interface.php](http://developer.reittiopas.fi/pages/en/http-get-interface.php)
+- [http://developer.reittiopas.fi/pages/en/http-get-interface/1.2.0.php](http://developer.reittiopas.fi/pages/en/http-get-interface/1.2.0.php)
 
 
 ## Example Usage
