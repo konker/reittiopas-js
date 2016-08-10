@@ -1,0 +1,30 @@
+{
+  "name": "reittiopas-js",
+  "version": "0.0.1",
+  "description": "Convenience library for accessing the Helsinki Reittiopas REST API",
+  "main": "lib/reittiopas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konker/reittiopas-js.git"
+  },
+  "keywords": [
+    "reittiopas",
+    "HSL",
+    "API"
+  ],
+  "author": "Konrad Markus <konker@luxvelocitas.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konker/reittiopas-js/issues"
+  },
+  "homepage": "https://github.com/konker/reittiopas-js#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "qs": "^6.2.1",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1"
+  }
+}
