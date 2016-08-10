@@ -44,5 +44,7 @@ To run the examples:
 Still a work in progress. Main things which still need to be done:
 - Route API
 - Automated tests
-
+- Handling of xml and txt formats
+- Documentation of options
+- Examples for all API methods
 
